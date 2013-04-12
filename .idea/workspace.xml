@@ -45,7 +45,7 @@
       <file leaf-file-name="pr3.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pr3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="21" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -69,10 +69,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pr7.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="pr7.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pr7.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="23" selection-start="133" selection-end="133" vertical-scroll-proportion="0.15411559">
+            <state line="4" column="23" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pr8.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pr8.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="29" selection-start="90" selection-end="90" vertical-scroll-proportion="0.11558669">
               <folding />
             </state>
           </provider>
@@ -104,6 +113,7 @@
         <option value="$PROJECT_DIR$/pr5.py" />
         <option value="$PROJECT_DIR$/pr6.py" />
         <option value="$PROJECT_DIR$/pr7.py" />
+        <option value="$PROJECT_DIR$/pr8.py" />
       </list>
     </option>
   </component>
@@ -180,24 +190,7 @@
     <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$USER_HOME$/sites/pawn2" />
   </component>
-  <component name="RunManager" selected="Python.pr7">
-    <configuration default="false" name="pr3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <module name="slavanew" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pr3.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.pr8">
     <configuration default="false" name="pr4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -266,6 +259,23 @@
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
+    <configuration default="false" name="pr8" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <module name="slavanew" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pr8.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -321,19 +331,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.pr3" />
-      <item index="1" class="java.lang.String" itemvalue="Python.pr4" />
-      <item index="2" class="java.lang.String" itemvalue="Python.pr5" />
-      <item index="3" class="java.lang.String" itemvalue="Python.pr6" />
-      <item index="4" class="java.lang.String" itemvalue="Python.pr7" />
+      <item index="0" class="java.lang.String" itemvalue="Python.pr4" />
+      <item index="1" class="java.lang.String" itemvalue="Python.pr5" />
+      <item index="2" class="java.lang.String" itemvalue="Python.pr6" />
+      <item index="3" class="java.lang.String" itemvalue="Python.pr7" />
+      <item index="4" class="java.lang.String" itemvalue="Python.pr8" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.pr7" />
-        <item index="1" class="java.lang.String" itemvalue="Python.pr6" />
-        <item index="2" class="java.lang.String" itemvalue="Python.pr5" />
-        <item index="3" class="java.lang.String" itemvalue="Python.pr4" />
-        <item index="4" class="java.lang.String" itemvalue="Python.pr3" />
+        <item index="0" class="java.lang.String" itemvalue="Python.pr8" />
+        <item index="1" class="java.lang.String" itemvalue="Python.pr7" />
+        <item index="2" class="java.lang.String" itemvalue="Python.pr6" />
+        <item index="3" class="java.lang.String" itemvalue="Python.pr5" />
+        <item index="4" class="java.lang.String" itemvalue="Python.pr4" />
       </list>
     </recent_temporary>
   </component>
@@ -348,7 +358,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="24" width="1625" height="1026" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -425,13 +435,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pr4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="17" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pr1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="0" selection-start="99" selection-end="99" vertical-scroll-proportion="0.0">
@@ -509,13 +512,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pr3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pr6.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="18" selection-start="129" selection-end="129" vertical-scroll-proportion="0.0">
@@ -532,7 +528,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pr7.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="23" selection-start="133" selection-end="133" vertical-scroll-proportion="0.15411559">
+        <state line="4" column="23" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pr3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="21" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pr8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="29" selection-start="90" selection-end="90" vertical-scroll-proportion="0.11558669">
           <folding />
         </state>
       </provider>
